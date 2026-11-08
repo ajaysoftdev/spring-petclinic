@@ -2,6 +2,10 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spring-projects/spring-petclinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)
 
+## Documentation
+
+See the [project documentation portal](docs/README.md) for architecture, data model, security, local setup, configuration, testing, operations, troubleshooting and source walkthroughs. These notes complement the upstream README and distinguish source observations from locally verified behaviour.
+
 ## Understanding the Spring Petclinic application with a few diagrams
 
 See the presentation here:  
